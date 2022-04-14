@@ -1,0 +1,71 @@
+h1 {
+    text-align:center;
+}
+
+p {
+    font-weight: 600;
+    padding-top:50px;
+    padding-left: 30px;
+}
+
+#skills {
+    padding-top: 30px;
+    border-width: medium;
+}
+.img_boy{
+    height: 300px;
+    width:300px;
+}
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+.container {
+    text-align:center;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+.modal-body {
+    text-align:center;
+}
+.img_modal {
+    display:inline-block;
+}
+.book {
+    cursor:pointer;
+}
+.modal-body {
+    text-align:center;
+}
+.modal-content {
+    margin-top:100px;
+}
